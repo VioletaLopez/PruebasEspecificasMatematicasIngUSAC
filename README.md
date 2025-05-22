@@ -6,4 +6,4 @@
 * Para dar por aprobada la prueba, el estudiante debe responder correctamente al menos 15 preguntas.
 * El examen tiene un tiempo limite de 100 minutos.
 * Durante la elaboracion del examen, el estudiante no podra utilizar ningun tipo de dispositivo electronico como calculadoras, tabletas o telefonos celulares, ni libros de texto, ni apuntes.
-holasass
+
