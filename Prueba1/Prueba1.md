@@ -193,7 +193,7 @@
     e) $70+b$ &emsp;&emsp;&emsp;
 
 ---
-1.  Si el perímetro de una piscina rectangular es de 40 metros y su área es 75 metros cuadrados ¿Cuánto mide uno de los lados más cortos?
+22.  Si el perímetro de una piscina rectangular es de 40 metros y su área es 75 metros cuadrados ¿Cuánto mide uno de los lados más cortos?
 
     a) $5 mts$ &emsp;&emsp;&emsp;
     b) $4 mts$ &emsp;&emsp;&emsp;
