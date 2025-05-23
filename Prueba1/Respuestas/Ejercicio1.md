@@ -11,7 +11,7 @@ a) $5,967$ &emsp;&emsp;&emsp;
 b) $3,996$ &emsp;&emsp;&emsp;
 c) $3,791$ &emsp;&emsp;&emsp;
 d) $3,697$ &emsp;&emsp;&emsp;
-e) $\underline{3,897}$ 
+e) $\boldsymbol{3,897}$ 
     
 ---
 ### Temas que se evalúan con este ejercicio:
@@ -93,7 +93,7 @@ Para resolver este problema, la mejor estrategia es analizar cada una de las opc
         |     3     |    7     |    9    |    1     |
 
      - En este caso el dígito de las decenas es $\textbf{9}$ y el dígito de las milésimas es $\textbf{3}$, por lo que $\boldsymbol{9 = 3 \times 3}$  así que si cumple este requisito. → ✔️
-     - 
+      
    - **El número es impar:** 
      - El número  $\textbf{3,791}$ es impar, porque termina en $1$ así que si cumple este requisito. → ✔️
    - **La suma de todos los dígitos que lo componen es igual a 27:** 
