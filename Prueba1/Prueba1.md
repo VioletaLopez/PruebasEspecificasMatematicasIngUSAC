@@ -184,7 +184,7 @@
 
 ---
 21. En el triángulo de la figura, ¿Qué expresión deja a "$a$" en térmions de "$b$"?   
-<img src="../imagenes/triangulo1.png" alt="Descripción" width="250"/>   
+<img src="../imagenes/triangulo1.png" alt="Descripción" width="250"/>  
 
     a) $b+94$ &emsp;&emsp;&emsp;
     b) $94-b$ &emsp;&emsp;&emsp;
@@ -193,7 +193,7 @@
     e) $70+b$ &emsp;&emsp;&emsp;
 
 ---
-22. Si el perímetro de una piscina rectangular es de 40 metros y su área es 75 metros cuadrados ¿Cuánto mide uno de los lados más cortos?
+1.  Si el perímetro de una piscina rectangular es de 40 metros y su área es 75 metros cuadrados ¿Cuánto mide uno de los lados más cortos?
 
     a) $5 mts$ &emsp;&emsp;&emsp;
     b) $4 mts$ &emsp;&emsp;&emsp;
