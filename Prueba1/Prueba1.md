@@ -184,7 +184,7 @@
 
 ---
 21. En el triángulo de la figura, ¿Qué expresión deja a "$a$" en térmions de "$b$"?   
-<img src="../imagenes/triangulo1.png" alt="Descripción" width="250"/>
+<img src="../imagenes/triangulo1.png" alt="Descripción" width="250"/>   
 
     a) $b+94$ &emsp;&emsp;&emsp;
     b) $94-b$ &emsp;&emsp;&emsp;
