@@ -7,12 +7,6 @@
    e) $NAC$    
 
 ---
-### Temas que se evalúan con este ejercicio:
-
-| Tema               | Descripción |
-| ------------------ | ----------- |
-| Suma de rápida de fracciones | <br> **Multiplicación en cruz y suma:** <br> Para sumar $\frac{a}{b}+\frac{c}{d}$ <br> Se puede utilizar este metodo: <br> $\frac{a.d + b.c}{b.d}$ <br> 💡 Se puede usar cuando los denominadores son diferentes y pequeños o de facil calculo como multiplos de 10. |
-| Comparación entre fracciones | <br> **Multiplicación en cruz y suma:** <br> Para sumar $\frac{a}{b}+\frac{c}{d}$ <br> Se puede utilizar este metodo: <br> $\frac{a.d + b.c}{b.d}$ |
 
 ## Paso 1: Calcular el resultado de la suma $\frac{1}{3} + \frac{1}{2}$
 Para sumar $\frac{1}{3} + \frac{1}{2}$, utilizamos el método de multiplicación en cruz y suma.
