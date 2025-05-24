@@ -6,7 +6,7 @@ c) $3$ &emsp;&emsp;&emsp;
 d) $4$ &emsp;&emsp;&emsp;
 e) $5$ &emsp;&emsp;&emsp;
 
-Ese ejercicio se trata de un problema de exponenentes que involura una desigualdad y  potencias de base 10. Para resolverlo, primero debemos expresar las cantidades en notación científica.
+Este ejercicio se trata de un problema de exponenentes que involura una desigualdad y  potencias de base 10. Para resolverlo, primero debemos expresar las cantidades en notación científica.
 
 ## Paso 1: Expresar los valores en notación científica
 1. Para el número $0.0010101$, primero vamos a asumir que  $0.0010101$ se aproxima a  $0.001$
