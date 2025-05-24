@@ -46,5 +46,5 @@ Por lo tanto, $\frac{11}{12} > \frac{5}{6}$ → ❌ asi que se descarta esta opc
 $$ \frac{1}{2},\frac{5}{6} \quad \Rightarrow \quad 1 \times 6 =6, \quad 2 \times 5 = 10 \quad \Rightarrow \quad 6 < 10 $$
 Por lo tanto, $\frac{1}{2} < \frac{5}{6}$ → ✔️ esta opción es correcta.
 
-
+ 
 
