@@ -24,20 +24,28 @@ En este caso, multiplicamos el numerador de la primera fraccion por el denominad
 $$\frac{a}{b}>\frac{c}{d} \iff a.d > b.c$$
 
 ### a) Comparamos  $\frac{23}{24}$ con $\frac{5}{6}$ 
+
 $$ \frac{23}{24},\frac{5}{6} \quad \Rightarrow \quad 23 \times 6 =138, \quad 24 \times 5 = 120 \quad \Rightarrow \quad 138 > 120 $$ 
+
 Por lo tanto, $\frac{23}{24} > \frac{5}{6}$ → ❌ asi que se descarta esta opción.
 
 ### b) Comparamos  $\frac{7}{6}$ con $\frac{5}{6}$
 En este caso, como el denominador es el mismo, por lo que solo comparamos los numeradores:
+
 $$ \frac{7}{6},\frac{5}{6} \quad \Rightarrow \quad 7 > 5 $$
+
 Por lo tanto, $\frac{7}{6} > \frac{5}{6}$ → ❌ asi que se descarta esta opción.
 
 ### c) Comparamos  $\frac{11}{12}$ con $\frac{5}{6}$
+
 $$ \frac{11}{12},\frac{5}{6} \quad \Rightarrow \quad 11 \times 6 =66, \quad 12 \times 5 = 60 \quad \Rightarrow \quad 66 > 60 $$
+
 Por lo tanto, $\frac{11}{12} > \frac{5}{6}$ → ❌ asi que se descarta esta opción.
 
 ### d) Comparamos  $\frac{1}{2}$ con $\frac{5}{6}$
+
 $$ \frac{1}{2},\frac{5}{6} \quad \Rightarrow \quad 1 \times 6 =6, \quad 2 \times 5 = 10 \quad \Rightarrow \quad 6 < 10 $$
+
 Por lo tanto, $\frac{1}{2} < \frac{5}{6}$ → ✔️ esta opción es correcta.
 
  
