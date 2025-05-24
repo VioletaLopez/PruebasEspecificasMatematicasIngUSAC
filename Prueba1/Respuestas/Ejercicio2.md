@@ -47,4 +47,3 @@ $$ \frac{1}{2},\frac{5}{6} \quad \Rightarrow \quad 1 \times 6 =6, \quad 2 \times
 Por lo tanto, $\frac{1}{2} < \frac{5}{6}$ → ✔️ esta opción es correcta.
 
  
- 
