@@ -41,7 +41,7 @@ Por lo tanto, $\frac{7}{6} > \frac{5}{6}$ → ❌ asi que se descarta esta opci�
 $$ \frac{11}{12},\frac{5}{6} \quad \Rightarrow \quad 11 \times 6 =66, \quad 12 \times 5 = 60 \quad \Rightarrow \quad 66 > 60 $$
 
 Por lo tanto, $\frac{11}{12} > \frac{5}{6}$ → ❌ asi que se descarta esta opción.
-
+    
 ### d) Comparamos  $\frac{1}{2}$ con $\frac{5}{6}$
 
 $$ \frac{1}{2},\frac{5}{6} \quad \Rightarrow \quad 1 \times 6 =6, \quad 2 \times 5 = 10 \quad \Rightarrow \quad 6 < 10 $$
